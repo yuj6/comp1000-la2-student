@@ -5,6 +5,7 @@ public class LA2a {
 	public static void main(String[] args) {
 		// TODO: write your code here
 
+		
 	}
 
 }
